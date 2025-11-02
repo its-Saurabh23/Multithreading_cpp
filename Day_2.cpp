@@ -1,5 +1,5 @@
 #include<iostream>
-#inclue<thread>
+#include<thread>
 using namespace std;
 
 
